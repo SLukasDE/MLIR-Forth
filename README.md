@@ -106,7 +106,11 @@ You will find the executable here:
 ## Content
 
 Part 1: [Intgroduction to the Forth Language](part1/README.md)
+
 Part 2: [Parsing the source language and generating the AST](part2/README.md)
+
 Part 3: [Writing our own dialect](part3/README.md)
+
 Part 4: [Compilation and Optimization](part4/README.md)
+
 Part 5: tbd
