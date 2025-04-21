@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+part1/build
+part2/build
+part3/build
+part4/build
+part5/build
+third_party/llvm-installed/
+third_party/llvm-project-build/
